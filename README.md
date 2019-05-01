@@ -1,4 +1,4 @@
-# Gramener-Machine-Learning-exercise
+# OCR-of-Devanagari-script
 
 ## Introduction
 This is the exercise of the classification of 46 different Devanagari Characters from the 32x32 images of handwritten characters. It uses data from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset) , a popular repository for machine learning datasets. A total of 92000 images is used as training and test sets, of which 78200 images were used as training images and 13800 images were used as test images. Here, for the classification of the images 'Convolutional Neural Networks' is used.
